@@ -1,3 +1,6 @@
+# Presentación
+Este es el proyecto de DJANGO que se mostrara en el proyecto de CAPEX
+
 # instalar DJANGO:
 py -m pip install django
 
