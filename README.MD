@@ -24,4 +24,5 @@ C:\Users\Estudiante\AppData\Local\Programs\Python\Python310-32\python.exe -m ven
 
 # Iniciar venv
 cd venv/Scripts
+
 activate
