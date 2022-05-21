@@ -18,3 +18,10 @@ C:\Users\Estudiante\AppData\Local\Programs\Python\Python310-32\python.exe manage
 
 # Crear superusuario
 C:\Users\Estudiante\AppData\Local\Programs\Python\Python310-32\python.exe manage.py createsuperuser
+
+# Instalar venv
+C:\Users\Estudiante\AppData\Local\Programs\Python\Python310-32\python.exe -m venv ruta
+
+# Iniciar venv
+cd venv/Scripts
+activate
