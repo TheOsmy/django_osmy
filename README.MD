@@ -11,4 +11,10 @@ py C:\Users\NOMBREDELUSUARIO\AppData\Local\Programs\Python\Python310-32\Scripts\
 C:\Users\Estudiante\AppData\Local\Programs\Python\Python310-32\python.exe manage.py runserver
 
 # Crear el "blog":
-C:\Users\Estudiante\AppData\Local\Programs\Python\Python310-32\Scripts\django-admin.exe manage.py startapp blog
+C:\Users\Estudiante\AppData\Local\Programs\Python\Python310-32\python.exe manage.py startapp blog
+
+# Para migrar el proyecto
+C:\Users\Estudiante\AppData\Local\Programs\Python\Python310-32\python.exe manage.py migrate
+
+# Crear superusuario
+C:\Users\Estudiante\AppData\Local\Programs\Python\Python310-32\python.exe manage.py createsuperuser
